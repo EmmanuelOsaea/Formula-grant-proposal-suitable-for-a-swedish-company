@@ -6,7 +6,7 @@
 Innovative Green Energy Solutions for Sustainable Communities
 
 **Submitted by:**
-Swedish Environmental Protection Agency (Naturvårdsverket)
+Swedish Environmental Protection Agency (Naturvårdsverket),
 Stockholm Headquarters
 Valhallavägen 195,
 SE-106 48 Stockholm, Sweden
@@ -17,7 +17,7 @@ August 30, 2024
 
 
 **Date:**  
-Fri,30 2024
+Fri, 30 2024
 
 ---
 
@@ -62,7 +62,7 @@ This formula ensures that larger, more energy-intensive regions with higher emis
 ---
 
 ### **IV. Organizational Background**
-[Swedish Organization’s Name] has been a leader in promoting environmental sustainability in Sweden. Established in [Year], the organization has successfully launched several green initiatives across the country, working closely with the government, academic institutions, and private sector partners.
+Swedish Environmental Protection Agency (Naturvårdsverket) has been a leader in promoting environmental sustainability in Sweden. Established in [Year], the organization has successfully launched several green initiatives across the country, working closely with the government, academic institutions, and private sector partners.
 
 Our organization is committed to advancing Sweden's goals of environmental protection and innovation. We have a strong track record in implementing renewable energy projects and promoting sustainable practices at the community level.
 
@@ -118,12 +118,12 @@ The grant funding will be allocated to the following activities:
 
 | **Item**                            | **Cost (SEK)** |
 |-------------------------------------|----------------|
-| Renewable Energy Installation       | SEK [24000] |
-| Building Retrofitting (Energy Efficiency) | SEK [31000] |
-| Carbon Emission Reduction Initiatives | SEK [45000] |
-| Research and Development             | SEK [53000] |
-| Project Administration               | SEK [65000] |
-| **Total**                            | SEK [78000] |
+| Renewable Energy Installation       | SEK 24000 |
+| Building Retrofitting (Energy Efficiency) | SEK 31000 |
+| Carbon Emission Reduction Initiatives | SEK 45000 |
+| Research and Development             | SEK 53000 |
+| Project Administration               | SEK 65000 |
+| **Total**                            | SEK 78000 |
 
 ---
 
