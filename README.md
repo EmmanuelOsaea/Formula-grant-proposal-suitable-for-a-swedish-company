@@ -6,7 +6,7 @@
 Innovative Green Energy Solutions for Sustainable Communities
 
 **Submitted by:**
-[Swedish Environmental Protection Agency (Naturvårdsverket)]:Swedish Environmental Protection Agency (Naturvårdsverket)
+[Swedish Environmental Protection Agency (Naturvårdsverket)]
 [Stockholm Headquarters
 Valhallavägen 195,
 SE-106 48 Stockholm, Sweden]
