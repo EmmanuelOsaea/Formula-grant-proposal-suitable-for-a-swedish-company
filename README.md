@@ -6,11 +6,14 @@
 Innovative Green Energy Solutions for Sustainable Communities
 
 **Submitted by:**
-Swedish Environmental Protection Agency (Naturvårdsverket),
+Swedish Environmental Protection Agency (Naturvårdsverket)
+
 Stockholm Headquarters
 Valhallavägen 195,
 SE-106 48 Stockholm, Sweden
-Anders Lundgren, Director of Sustainability Programs 
+
+Anders Lundgren, Director of Sustainability Programs.
+
 Phone: +46 10 698 10 00
 Email: anders.lundgren@naturvardsverket.se
 August 30, 2024 
