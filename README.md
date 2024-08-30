@@ -16,8 +16,6 @@ Anders Lundgren, Director of Sustainability Programs
 
 Phone: +46 10 698 10 00
 Email: anders.lundgren@naturvardsverket.se
-August 30, 2024 
-
 
 **Date:**  
 Fri, 30 2024
